@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br><br>    🔭 I’m currently working on Ticket sales page for musical events.<br><br>    🌱 I’m currently learning NestJS in depth, integrating GraphQL with it.<br><br>    👯 I’m looking to collaborate on A team of 6 people (I will be adding their GitHub profiles soon).<br><br>    💬 Ask me about Express, NodeJS, Nest<br><br>    📫 How to reach me agustincruz0905@gmail.com<br><br>    📄 Know about my experiences https://docs.google.com/document/d/1pVih3-aKJe3MT9yKQ2rXV516n_YqtzqgMMAir9irUjo/edit?usp=sharing<br>
-
+<br><br>    🔭 I’m currently working on Ticket sales page for musical events.<br><br>    🌱 I’m currently learning NestJS in depth, integrating GraphQL with it.<br><br>    👯 I’m looking to collaborate on A team of 6 people (I will be adding their GitHub profiles soon).<br><br>    💬 Ask me about Express, NodeJS, Nest<br><br>    📫 How to reach me agustincruz0905@gmail.com<br><br>    📄 Know about my experiences https://docs.google.com/document/d/1pVih3-aKJe3MT9yKQ2rXV516n_YqtzqgMMAir9irUjo/edit?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-alexis-cruz/) 
